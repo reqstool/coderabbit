@@ -26,6 +26,7 @@ match by path
 - `protect-main` requires every review thread to be resolved, so a CodeRabbit
   comment blocks merge until it is resolved. Reply in the thread when it is
   wrong.
-- `AGENTS.md` and `CLAUDE.md` are read as review guidelines.
+- `AGENTS.md` and `CLAUDE.md` in the repository under review are read as
+  review guidelines.
 
 A change here changes code review for every repository in the organization.
